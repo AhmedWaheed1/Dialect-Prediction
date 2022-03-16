@@ -12,3 +12,5 @@ The second is the save wieghted model.
 You can run the model by ML or DL. 
 Surely DL is more accurite. 
 As we want to deeply cutomize the model to can deal with text data.
+
+HyperParameter tuning by grid search
